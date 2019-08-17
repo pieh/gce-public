@@ -1,0 +1,8 @@
+{
+  "name": "gce-public",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pieh/gce-public.git",
+  "author": "Michal Piechowiak <misiek.piechowiak@gmail.com>",
+  "license": "MIT"
+}
