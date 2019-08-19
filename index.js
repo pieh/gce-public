@@ -1,3 +1,3 @@
 exports.test = () => {
-  return "one million :pinky_finger:";
+  return "one million :pinky_finger:"
 }
