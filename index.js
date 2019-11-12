@@ -1,3 +1,3 @@
 exports.test = () => {
-  return 5
+  return 54
 }
